@@ -1,8 +1,8 @@
 export interface PostProps {
-  userId?: number;
-  id?: number;
-  title?: string;
-  body?: string;
+  userId: number;
+  id: number;
+  title: string;
+  body: string;
   posts?: PostProps[];
 }
 
