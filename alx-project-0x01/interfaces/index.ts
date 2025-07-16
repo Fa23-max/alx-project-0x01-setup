@@ -35,3 +35,4 @@ export interface Company {
     catchPhrase: string;
     bs:          string;
 }
+// ["username: string;", "street: string;"]
