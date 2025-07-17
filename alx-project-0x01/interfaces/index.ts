@@ -49,6 +49,5 @@ export interface PostModalProps {
   onSubmit: (post: PostData) => void;
 }
 export interface UserModalProps{
-   
-  onSubmit: (post: PostData) => void; 
+   onSubmit: (post: UserProps) => void;
 }
